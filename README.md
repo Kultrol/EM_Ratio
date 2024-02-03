@@ -36,3 +36,10 @@ We extend our gratitude to Prof. Werner Boeglin for his guidance and the lab man
 ---
 
 For more information or questions regarding this experiment, please contact [Kevin Medina](mailto:kmedi060@fiu.com)
+
+---
+## Description of Class Used in the Script
+
+### `VoltageTrial` Class
+
+The `VoltageTrial` class is central to the experiment's data processing. It represents a series of voltage trials within the physics experiment, focusing on varying coil radii. The class is designed to initialize with specific experiment parameters, including voltage, currents, path diameter, and path diameter uncertainty. It provides methods for calculating path radii uncertainty, magnetic fields, charge to mass ratio, and their uncertainties, and for plotting the results. This class streamlines the analysis from raw data to finalized graphs, illustrating the charge to mass ratio versus current for each trial.
