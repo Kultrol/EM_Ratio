@@ -35,7 +35,7 @@ We extend our gratitude to Prof. Werner Boeglin for his guidance and the lab man
 
 ---
 
-For more information or questions regarding this experiment, please contact [Kevin Medina](mailto:kmedi060@fiu.com)
+For more information or questions regarding this experiment, please contact [me](mailto:kmedi060@fiu.com)
 
 ---
 ## Description of Class Used in the Script
